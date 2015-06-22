@@ -1,1 +1,3 @@
-# This is my Essay Title
+# My goals after completing The Iron Yard
+
+    There are many things I plan on accomplishing after finishing my time at The Iron Yard, but the most important is laying the groundwork to starting a career in something I love to do! I look forward to being creative in the apps I make on my own and with the apps I create when working with a team. There's nothing more exciting than thinking about where I'll be after completion, but first I want to get a job working with a team and try to learn as much as I can about iOS development. Eventually creating my own app and making a name for myself is my long term goal. For now I just want to soak in as much knowledge as possible and keep the ball rolling towards a possitive future!
